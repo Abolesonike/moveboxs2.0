@@ -1,0 +1,11 @@
+﻿  game.cpp
+d:\c\moveboxege\moveboxege\game.cpp(492): warning C4018: “<”: 有符号/无符号不匹配
+d:\c\moveboxege\moveboxege\game.cpp(1570): warning C4474: fprintf: 格式字符串中传递的参数太多
+  d:\c\moveboxege\moveboxege\game.cpp(1570): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+d:\c\moveboxege\moveboxege\game.cpp(1572): warning C4474: fprintf: 格式字符串中传递的参数太多
+  d:\c\moveboxege\moveboxege\game.cpp(1572): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+d:\c\moveboxege\moveboxege\game.cpp(1574): warning C4474: fprintf: 格式字符串中传递的参数太多
+  d:\c\moveboxege\moveboxege\game.cpp(1574): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+d:\c\moveboxege\moveboxege\game.cpp(1635): warning C4715: “setmap”: 不是所有的控件路径都返回值
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  moveboxEGE.vcxproj -> D:\C\moveboxEGE\Debug\moveboxEGE.exe
